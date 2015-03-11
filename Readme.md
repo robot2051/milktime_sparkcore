@@ -1,5 +1,7 @@
 Simple c++ code for my sparkcore that would display a menu on the LCD module via serial connection and let her enter milktime, milk amount, etc... then send it off to my socket server which inturn upload/sync it to my blog at http://ourgreenbox.net/jeremy . :)
 Again,
+
+
 /*
  DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
                     Version 2, December 2004 
